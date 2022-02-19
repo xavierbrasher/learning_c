@@ -1,0 +1,3 @@
+C:/Users/Xavier/OneDrive/Altogether-Coding/Coding/Learning C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Xavier/OneDrive/Altogether-Coding/Coding/Learning C/cmake-build-debug/CMakeFiles/Learning_C.dir
+C:/Users/Xavier/OneDrive/Altogether-Coding/Coding/Learning C/cmake-build-debug/CMakeFiles/edit_cache.dir
